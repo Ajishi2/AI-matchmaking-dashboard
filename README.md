@@ -110,6 +110,9 @@ The application follows modern React patterns:
 - Environment variable protection
 
 ## 🚀 Deployment
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/6fc18cf0-277e-4c1d-ac12-63bf2264b0d6" />
+<img width="215" alt="image" src="https://github.com/user-attachments/assets/a45aed45-b216-49c6-a161-5c613e9722df" />
+
 
 The application is configured for easy deployment:
 
