@@ -122,6 +122,4 @@ npm run build
 
 Deploy to Vercel, Netlify, or any static hosting provider that supports Next.js.
 
-## 📝 License
 
-This project is part of the CONGKONG FRIENDS Competency Assessment for Full Stack Web Development.
